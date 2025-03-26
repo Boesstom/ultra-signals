@@ -1,0 +1,7 @@
+<svg width="120" height="60" viewBox="0 0 120 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g>
+    <path d="M60 10L80 20V40L60 50L40 40V20L60 10Z" stroke="black" stroke-width="2" fill="none"/>
+    <path d="M60 10L40 20M60 10L60 30M60 10L80 20M40 20L60 30M40 20L40 40M60 30L80 20M60 30L60 50M60 30L40 40M80 20L80 40M40 40L60 50M40 40L60 30M80 40L60 50M80 40L60 30" stroke="black" stroke-width="1" fill="none"/>
+  </g>
+  <text x="60" y="58" text-anchor="middle" font-family="Arial" font-size="8" fill="black">Premier Network</text>
+</svg>

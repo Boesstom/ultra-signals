@@ -1,0 +1,8 @@
+<svg width="88" height="32" viewBox="0 0 88 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 25.6V0H5.867V25.6H0Z" fill="black"/>
+  <path d="M9.6 25.6V0H15.467V10.667L25.067 0H32L21.333 11.733L32.533 25.6H25.6L18.133 15.467L15.467 18.4V25.6H9.6Z" fill="black"/>
+  <path d="M34.133 25.6V0H40V8.533H49.067V0H54.933V25.6H49.067V13.867H40V25.6H34.133Z" fill="black"/>
+  <path d="M58.667 25.6V0H64.533V10.667L74.133 0H81.067L70.4 11.733L81.6 25.6H74.667L67.2 15.467L64.533 18.4V25.6H58.667Z" fill="black"/>
+  <path d="M83.2 25.6V0H88V25.6H83.2Z" fill="black"/>
+  <text x="32" y="31" font-family="Arial" font-size="8" fill="black">SIGNALS</text>
+</svg>

@@ -1,0 +1,38 @@
+@import 'tailwindcss';
+@plugin '@tailwindcss/forms';
+@plugin '@tailwindcss/typography';
+
+@layer base {
+  html {
+    font-family: 'Inter', sans-serif;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Poppins', sans-serif;
+  }
+}
+
+/* Rainbow gradient for borders and buttons */
+.rainbow-border {
+    background: linear-gradient(45deg, #ff0000, #ff8000, #ffff00, #00ff00, #00ffff, #0000ff, #8000ff, #ff00ff);
+    background-size: 400% 400%;
+    animation: rainbow 3s linear infinite;
+    opacity: 1;
+    padding: 3px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.3);
+}
+
+@keyframes rainbow {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+.rainbow-button {
+  background: linear-gradient(90deg, #00FF85 0%, #00C2FF 33%, #CC00FF 66%, #FF0000 100%);
+}
+
+.font-cursive {
+  font-family: 'Poppins', cursive;
+  font-style: italic;
+  font-weight: 600;
+}
